@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Grupo10</string>
+    <string name="txt_jugar">PLAY</string>
+    <string name="txt_perfil">PROFILE</string>
+    <string name="txt_ajustes">SETTINGS</string>
+    <string name="txt_acerca_de">ABOUT</string>
+</resources>
